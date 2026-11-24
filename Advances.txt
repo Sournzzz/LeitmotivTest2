@@ -1,0 +1,1 @@
+Tomorrow start building the endpoints, create the SQLAlchemy tables, upload to github and fix the duplicates issue. Maybe improvised cache 
